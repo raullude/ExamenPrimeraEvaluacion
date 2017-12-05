@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Clase en la que introduces por teclado
  * dos numeros y nos indica cual es el mayor
  * nos da sus multiplos de 3
- * y nos dice si es capicua
+ * y nos dice si es capicua o no
  * @author Raul Luque Delgado
  * @version 1.0
  *
